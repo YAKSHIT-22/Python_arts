@@ -3,7 +3,6 @@ import math
 
 
 turtle.Screen().bgcolor('black')
-
 Johny = turtle.Turtle()
 Johny.speed(0)
 Johny.color('white')
